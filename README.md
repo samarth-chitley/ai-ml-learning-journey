@@ -11,3 +11,14 @@ This repository documents my learning journey from Mathematics to Machine Learni
 - Develop production-ready AI projects
 - Learn MLOps and AI system testing
 - Transition into AI/ML Engineering
+
+## Planned Learning Path
+
+- [ ] Python Fundamentals
+- [ ] Mathematics for ML
+- [ ] Data Analysis (NumPy, Pandas)
+- [ ] Machine Learning
+- [ ] Deep Learning
+- [ ] Generative AI
+- [ ] AI Testing
+- [ ] MLOps
