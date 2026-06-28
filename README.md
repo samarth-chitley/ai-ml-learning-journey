@@ -14,7 +14,7 @@ This repository documents my learning journey from Mathematics to Machine Learni
 
 ## Planned Learning Path
 
-- [ ] Python Fundamentals
+- [x] Python Fundamentals
 - [ ] Mathematics for ML
 - [ ] Data Analysis (NumPy, Pandas)
 - [ ] Machine Learning
