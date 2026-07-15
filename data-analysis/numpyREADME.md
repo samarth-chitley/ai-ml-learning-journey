@@ -12,7 +12,8 @@ Why is NumPy Faster Than Lists?
 - This behavior is called locality of reference in computer science.
 
 Daily/Weekly Updates:
--> NumPy basics
--> n dimensional array concept
--> .shape, .type, .reshape
----------------------------Checkpoint 1 (16th Jul, 2026)
+
+Checkpoint 1 : 16th Jul, 2026
+- NumPy basics
+- n dimensional array concept
+- .shape, .type, .reshape
